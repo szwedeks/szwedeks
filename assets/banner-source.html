@@ -1,0 +1,73 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  /* Palette matches the portfolio site: cool technical paper + petrol ink. */
+  :root {
+    --bg: #f6f7f8; --ink: #131a1d; --ink2: #4a565c; --ink3: #656f75;
+    --rule: #dde2e5; --accent: #0f6b6b;
+  }
+  body.dark {
+    --bg: #0f1417; --ink: #e8eef0; --ink2: #a3b0b6; --ink3: #7d8b91;
+    --rule: #232c31; --accent: #5ec8bf;
+  }
+  * { box-sizing: border-box; margin: 0; }
+  body {
+    width: 1280px; height: 320px;
+    background: var(--bg);
+    font-family: "DejaVu Sans", sans-serif;
+    display: flex; align-items: center;
+    padding: 0 64px; gap: 48px;
+    position: relative; overflow: hidden;
+  }
+  .left { flex: 1; min-width: 0; }
+  .eyebrow {
+    font-family: "DejaVu Sans Mono", monospace;
+    font-size: 13px; letter-spacing: .18em; text-transform: uppercase;
+    color: var(--ink3); margin-bottom: 18px;
+  }
+  h1 {
+    font-family: "Noto Serif", "DejaVu Serif", serif;
+    font-size: 62px; line-height: 1; letter-spacing: -.025em;
+    color: var(--ink); font-weight: 600; margin-bottom: 20px;
+  }
+  h1 .dot { color: var(--accent); }
+  p {
+    font-size: 19px; line-height: 1.5; color: var(--ink2); max-width: 46ch;
+  }
+  p b { color: var(--ink); font-weight: 600; }
+  /* The four-gate motif from the guardrail case, used as a quiet mark. */
+  .mark { flex: 0 0 300px; height: 200px; color: var(--ink3); }
+  .mark .accent { color: var(--accent); }
+  .rule-b { position: absolute; left: 0; right: 0; bottom: 0; height: 4px; background: var(--accent); }
+</style>
+</head>
+<body>
+  <div class="left">
+    <div class="eyebrow">Product &nbsp;·&nbsp; Design &nbsp;·&nbsp; AI Systems</div>
+    <h1>Maciek Szwed<span class="dot">.</span></h1>
+    <p>Product leader, 15 years. I work out which AI bets are worth making,
+       <b>then build them myself.</b></p>
+  </div>
+
+  <svg class="mark" viewBox="0 0 300 200" fill="none" stroke="currentColor" stroke-width="2">
+    <!-- agent -->
+    <rect x="2" y="86" width="58" height="28" rx="14"/>
+    <!-- fan out to four call sites, one gate on each path -->
+    <path d="M60 100 L104 34 M60 100 L104 78 M60 100 L104 122 M60 100 L104 166"
+          opacity=".45"/>
+    <g class="accent" stroke="currentColor">
+      <path d="M118 20 132 34 118 48 104 34Z"/>
+      <path d="M118 64 132 78 118 92 104 78Z"/>
+      <path d="M118 108 132 122 118 136 104 122Z"/>
+      <path d="M118 152 132 166 118 180 104 166Z"/>
+    </g>
+    <path d="M132 34 L204 100 M132 78 L204 100 M132 122 L204 100 M132 166 L204 100"
+          opacity=".45"/>
+    <rect x="204" y="80" width="80" height="40" rx="3"/>
+  </svg>
+
+  <div class="rule-b"></div>
+</body>
+</html>
