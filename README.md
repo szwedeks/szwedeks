@@ -1,7 +1,4 @@
-![Maciek Szwed. Product leader, 15 years. I work out which AI bets are worth making, then build them myself.](https://raw.githubusercontent.com/szwedeks/szwedeks/main/assets/banner-light.png#gh-light-mode-only)
-![Maciek Szwed. Product leader, 15 years. I work out which AI bets are worth making, then build them myself.](https://raw.githubusercontent.com/szwedeks/szwedeks/main/assets/banner-dark.png#gh-dark-mode-only)
-
-![Product leadership](https://img.shields.io/badge/Product_leadership-15_years-0F6B6B?style=flat-square)
+![Product leadership](https://img.shields.io/badge/Product_leadership-0F6B6B?style=flat-square)
 ![Domain](https://img.shields.io/badge/Domain-payments,_fraud_%26_risk-0F6B6B?style=flat-square)
 ![Design org](https://img.shields.io/badge/Design_org-built_to_30%2B-0F6B6B?style=flat-square)
 ![AI](https://img.shields.io/badge/AI-products_%26_agents-0F6B6B?style=flat-square)
@@ -10,9 +7,9 @@
 > [!NOTE]
 > **Open to product leadership roles that are AI-related, or that I can make AI-related.** Location fully open.
 
-I ran product and design organisations for fifteen years: a design discipline built to thirty people at a Kraków consultancy, a product function started from nothing, and most recently the entire product function at a payments company in the Philippines.
+I build and run product organisations. I grew a design discipline to thirty people at a Kraków consultancy and took it to full billability, started the product function there from nothing, then went hands-on as the entire product function at a payments company in the Philippines: discovery, design, delivery, and the AI systems underneath it.
 
-What changed in the last two years is that I stopped only specifying AI systems and started building them. Agents, eval harnesses, pipelines. It means I can prove or kill a bet in days rather than argue about it for a quarter.
+What changed recently is that I stopped only specifying AI systems and started building them. Agents, eval harnesses, pipelines. It means I can prove or kill a bet in days rather than argue about it for a quarter.
 
 ## Currently
 
