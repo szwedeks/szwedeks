@@ -1,5 +1,4 @@
 ![Product leadership](https://img.shields.io/badge/Product_leadership-0F6B6B?style=flat-square)
-![Domain](https://img.shields.io/badge/Domain-payments,_fraud_%26_risk-0F6B6B?style=flat-square)
 ![Design org](https://img.shields.io/badge/Design_org-built_to_30%2B-0F6B6B?style=flat-square)
 ![AI](https://img.shields.io/badge/AI-products_%26_agents-0F6B6B?style=flat-square)
 ![Based in](https://img.shields.io/badge/Kraków-open_to_relocate-0F6B6B?style=flat-square)
@@ -20,7 +19,7 @@ What changed recently is that I stopped only specifying AI systems and started b
 
 ## What I do
 
-Product Strategy • Discovery & Research • Product Design • AI Products • Payments, Fraud & Risk • Design Org Building • Team Leadership
+Product Strategy • Discovery & Research • Product Design • AI Products • Design Org Building • Team Leadership
 
 ## How I build
 
