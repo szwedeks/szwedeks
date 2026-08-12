@@ -16,16 +16,16 @@ I needed an agent to operate a live banking application to produce customer-faci
 
 ```mermaid
 flowchart LR
-  A(["Agent"]) --> N["navigate"]
-  A --> C["click"]
-  A --> T["type"]
-  A --> E["evaluate"]
-  N --> D{"destructive<br/>verb?"}
-  C --> D
-  T --> D
-  E --> D
-  D -->|no| APP["Live banking app"]
-  D -->|yes| B["Blocked, logged"]
+  A(["Agent"]) --> G
+  subgraph G["deny-by-default check, enforced at each call site"]
+    direction TB
+    DN{"navigate"}
+    DC{"click"}
+    DT{"type"}
+    DE{"evaluate"}
+  end
+  G --> APP["Live banking app"]
+  G -.-> B["Blocked, logged"]
   B -.->|human-vetted exception| APP
 ```
 
