@@ -4,32 +4,20 @@
 ![Based in](https://img.shields.io/badge/Kraków-open_to_relocate-0F6B6B?style=flat-square)
 
 > [!NOTE]
-> **Open to product leadership roles that are AI-related, or that I can make AI-related.** Location fully open.
+> **Open to product leadership roles that are AI-related, or that I can make AI-related.** Location is not a constraint.
 
-I build and run product organisations. I grew a design discipline to thirty people at a Kraków consultancy and took it to full billability, started the product function there from nothing, then went hands-on as the entire product function at a payments company in the Philippines: discovery, design, delivery, and the AI systems underneath it.
+I run product at SwiftPay, a payments company in Manila, and I'm the only one doing it: discovery, design, delivery, and the AI systems underneath. Before that, a Kraków consultancy, where I took the product and design team from nothing to over 30 people and started its innovation practice.
 
-What changed recently is that I stopped only specifying AI systems and started building them. Agents, eval harnesses, pipelines. It means I can prove or kill a bet in days rather than argue about it for a quarter.
+What changed recently is that I stopped only specifying AI systems and started building them, mostly with Claude Code and n8n. Agents, eval harnesses, pipelines, an MCP server over production data. I'm a product person who builds, not an engineer: I get to a working version fast, then hand it over with a known shape. It means I can prove or kill a bet in days rather than argue about it for a quarter.
 
-## Currently
-
-- 🔍 Looking for my next product leadership role, anywhere
-- 🤖 Building AI products end to end, mostly with Claude Code and n8n
-- 📐 Preoccupied with measurement integrity: whether the number in front of you could ever have said something else
-- ✍️ Writing up the last few years of work as case studies, at **maciekszwed.com** (soon)
+Most of it comes back to one question, whether the number in front of you could ever have said something else. The write-ups are at **[maciekszwed.com](https://maciekszwed.com)**.
 
 ## What I do
 
 Product Strategy • Discovery & Research • Product Design • AI Products • Design Org Building • Team Leadership
 
-## How I build
-
-I am a product person who builds, not an engineer. I use AI tooling to get to a working version fast, which is usually the shortest path to finding out whether an idea survives contact with reality. When something needs to be production-grade, that is a job for engineers and I hand it over with a known shape.
-
 ## Elsewhere
 
+[![Website](https://img.shields.io/badge/Website-maciekszwed.com-0F6B6B?style=flat-square&logo=googlechrome&logoColor=white)](https://maciekszwed.com)
 [![Email](https://img.shields.io/badge/Email-m.r.szwed@gmail.com-0F6B6B?style=flat-square&logo=gmail&logoColor=white)](mailto:m.r.szwed@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-maciek--szwed-0F6B6B?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maciek-szwed)
-
-<!-- Add once maciekszwed.com is live:
-[![Website](https://img.shields.io/badge/Website-maciekszwed.com-0F6B6B?style=flat-square&logo=googlechrome&logoColor=white)](https://maciekszwed.com)
--->
